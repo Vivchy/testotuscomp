@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\Project;
+namespace Otusmyfirst\Project;
 
 class SayHello
 {

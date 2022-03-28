@@ -1,10 +1,10 @@
 {
-    "name": "test/project",
+    "name": "otusmyfirst/project",
     "description": "some desc",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Test\\Project\\": "src/"
+            "Otusmyfirst\\Project\\": "src/"
         }
     },
     "authors": [
