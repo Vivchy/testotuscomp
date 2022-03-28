@@ -1,0 +1,19 @@
+{
+    "name": "test/project",
+    "description": "some desc",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Test\\Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vivchy",
+            "email": "vivchy@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
